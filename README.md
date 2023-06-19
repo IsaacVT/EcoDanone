@@ -22,6 +22,7 @@ Aquí se presentan el diseño del proyecto:
 ## Aplicación desplegada
 
 Puedes acceder a la aplicación desplegada en el siguiente enlace: [Enlace a la aplicación](https://eco-danone.vercel.app/home/app)
+
 En la parte final de la aplicación, podras encontrar el enlace a mi portfolio para que puedas conocer un poco más sobre mí y los proyectos que he realizado.
 
 #
