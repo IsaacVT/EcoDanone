@@ -106,11 +106,11 @@ data.productCollection.items.map((prod) => (
 
 # Reflexión personal
 
-Al principio del reto, no conocía las tecnologías mencionadas, a excepción de React, que lo había practicado un poco. Sin embargo, eso no me detuvo para investigar bastante sobre los temas, hacer pruebas y errores, y lidiar con la frustración de que no funcionaba como quería o me gustaría. Eso me tomó al menos un día completo para entender cómo hacer lo básico.
+Al comienzo del desafío, no estaba familiarizado con la mayoría de las tecnologías mencionadas, excepto React, con la cual tenía algo de experiencia previa. No obstante, eso no me impidió dedicar mucho tiempo a investigar los temas, realizar pruebas y errores, y enfrentar la frustración de que las cosas no funcionaran como deseaba. Me llevó al menos un día completo comprender los conceptos básicos.
 
-Al ver que el tiempo se agotaba, comencé a desarrollar el proyecto e implementar lo aprendido, siguiendo la documentación y algunos tutoriales. Para ganar un poco de tiempo, reciclé código de proyectos anteriores, aunque no fue lo mejor, ya que incluí código que no me servía mucho, pero me ayudó a avanzar en algunas partes. Creo que sufrí más al limpiar el código que al programar desde cero.
+A medida que el tiempo se agotaba, me enfoque a desarrollar el proyecto e implementar lo que había aprendido, siguiendo la documentación y algunos tutoriales. Para ganar algo de tiempo, recurrí a código que había utilizado en proyectos anteriores, aunque no fue la mejor opción, ya que incluí código que no era relevante para este proyecto en particular. Sin embargo, me ayudó a avanzar en ciertas partes. Curiosamente, encontré más dificultades al depurar y mejorar el código que al programar desde cero.
 
-De este proyecto, me llevo mucho aprendizaje. Aunque no es lo más extraordinario, logré implementar algunas funcionalidades sin tener conocimiento previo de estas tecnologías, y eso, personalmente, es un logro. Sin duda alguna, seguiré practicando e investigando. Agradezco la oportunidad.
+Este proyecto es susceptible a mejoras. Estoy feliz con el resultado obtenido, me ha brindado una valiosa experiencia, ya que logre implementar y conocer nuevas funcionalidades sin tener conocimientos previos, y eso, en mi opinión, es un logro.
 
 #
 
