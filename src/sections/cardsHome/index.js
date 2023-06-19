@@ -1,0 +1,1 @@
+export { CardsHome } from "./CardsHome";
