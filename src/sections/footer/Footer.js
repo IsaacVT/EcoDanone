@@ -65,14 +65,14 @@ export const Footer = () => {
             >
                 <Button
                     component={Link}
-                    href="https://github.com/IsaacVT"
+                    href="https://portfolio-isaacvt.vercel.app/"
                     sx={{
                         color: palette.danone[900],
                         fontSize: "1.5rem",
                     }}
                     endIcon={<GitHubIcon />}
                 >
-                    Github
+                    Portfolio
                 </Button>
                 <Button
                     component={Link}
